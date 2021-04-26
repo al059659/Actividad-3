@@ -109,7 +109,7 @@ public class Actividad3 {
         String gato[][] = new String[3][3];
         for(String vertical[]: gato){
             for(String horizontal: vertical){
-                System.out.print("+" + " ");
+                System.out.print("*" + " ");
                 
             }
             
